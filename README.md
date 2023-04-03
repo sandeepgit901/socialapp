@@ -1,6 +1,6 @@
 # Set Up
 1. clone the project 
-git clone https://github.com/sandeepgit901/socialmedia.git
+git clone https://github.com/sandeepgit901/socialapp.git
 
 2. rout the directory first 
  
